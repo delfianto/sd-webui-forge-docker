@@ -1,5 +1,5 @@
 FROM nvidia/cuda:13.2.0-base-ubuntu24.04
-LABEL org.opencontainers.image.source="https://github.com/delfianto/compose"
+LABEL org.opencontainers.image.source="https://github.com/delfianto/sd-webui-forge-docker"
 LABEL org.opencontainers.image.description="Stable Diffusion WebUI Forge Neo"
 
 # Install system dependencies and Python 3.13 via deadsnakes PPA
